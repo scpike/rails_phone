@@ -6,7 +6,7 @@ require "rails_phone/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "rails_phone"
-  s.version     = RailsPhone::1.0.0
+  s.version     = RailsPhone::VERSION
   s.authors     = ["Stephen Pike"]
   s.email       = ["spike@scpike.net"]
   s.homepage    = "http://github.com/scpike/rails_phone"
