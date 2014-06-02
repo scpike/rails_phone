@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails_phone (1.0.0)
+    rails_phone (1.1.0)
       rails (>= 3.2.13)
 
 GEM
