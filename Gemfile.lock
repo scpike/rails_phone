@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     rails_phone (1.1.0)
-      rails (>= 3.2.13)
+      activerecord (>= 3.2.13)
 
 GEM
   remote: http://rubygems.org/
@@ -96,6 +96,7 @@ PLATFORMS
 
 DEPENDENCIES
   jquery-rails
+  rails (>= 3.2.13)
   rails_phone!
   sqlite3
   test-unit
